@@ -69,7 +69,7 @@
         <version>3.0.0-M6</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>C:\Users\Prabhanjan Sharma\eclipse-workspace\SwagLabs\src\main\resources\testng.xml</suiteXmlFile>
+            <suiteXmlFile>C:\Users\Prabhanjan Sharma\eclipse-workspace\OrangeHRM\src\main\resources\testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>

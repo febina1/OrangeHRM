@@ -1,0 +1,14 @@
+<suite name="OrangeHRM Test Automation Test Suite">
+<listeners>
+<listener class-name="com.ohrm.qa.ExtendReportListener.ExtendReportListener"/>
+
+</listeners>
+<test name="OrangeHRM Testcases">
+
+<classes>
+<class name="com.ohrm.qa.testcases.TestHRMLoginPage"></class>
+<class name="com.ohrm.qa.testcases.TestHRMEmpManagementPage"></class>
+<class name="com.ohrm.qa.testcases.TestHRMOnboardingPage"></class>
+</classes>
+</test>
+</suite>

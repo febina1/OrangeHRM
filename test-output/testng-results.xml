@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM Test Automation Test Suite" duration-ms="91361" started-at="2022-06-03T18:24:37 EDT" finished-at="2022-06-03T18:26:08 EDT">
+    <groups>
+    </groups>
+    <test name="OrangeHRM Testcases" duration-ms="91361" started-at="2022-06-03T18:24:37 EDT" finished-at="2022-06-03T18:26:08 EDT">
+      <class name="com.ohrm.qa.testcases.TestHRMLoginPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ohrm.qa.testcases.TestHRMLoginPage@12028586]" name="setUp" is-config="true" duration-ms="3706" started-at="2022-06-03T18:24:37 EDT" finished-at="2022-06-03T18:24:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHRMLogin()[pri:4, instance:com.ohrm.qa.testcases.TestHRMLoginPage@12028586]" name="testHRMLogin" duration-ms="15553" started-at="2022-06-03T18:24:40 EDT" finished-at="2022-06-03T18:24:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHRMLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ohrm.qa.testcases.TestHRMLoginPage@12028586]" name="tearDown" is-config="true" duration-ms="680" started-at="2022-06-03T18:24:56 EDT" finished-at="2022-06-03T18:24:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ohrm.qa.testcases.TestHRMLoginPage -->
+      <class name="com.ohrm.qa.testcases.TestHRMOnboardingPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ohrm.qa.testcases.TestHRMOnboardingPage@641147d0]" name="setUp" is-config="true" duration-ms="32013" started-at="2022-06-03T18:25:26 EDT" finished-at="2022-06-03T18:25:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestOnBoardingaddEvent()[pri:0, instance:com.ohrm.qa.testcases.TestHRMOnboardingPage@641147d0]" name="TestOnBoardingaddEvent" duration-ms="9234" started-at="2022-06-03T18:25:58 EDT" finished-at="2022-06-03T18:26:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOnBoardingaddEvent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ohrm.qa.testcases.TestHRMOnboardingPage@641147d0]" name="tearDown" is-config="true" duration-ms="754" started-at="2022-06-03T18:26:07 EDT" finished-at="2022-06-03T18:26:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ohrm.qa.testcases.TestHRMOnboardingPage -->
+      <class name="com.ohrm.qa.testcases.TestHRMEmpManagementPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ohrm.qa.testcases.TestHRMEmpManagementPage@3d3fcdb0]" name="setUp" is-config="true" duration-ms="19219" started-at="2022-06-03T18:24:57 EDT" finished-at="2022-06-03T18:25:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOnBoarding()[pri:0, instance:com.ohrm.qa.testcases.TestHRMEmpManagementPage@3d3fcdb0]" name="testOnBoarding" duration-ms="10156" started-at="2022-06-03T18:25:16 EDT" finished-at="2022-06-03T18:25:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnBoarding -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ohrm.qa.testcases.TestHRMEmpManagementPage@3d3fcdb0]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-06-03T18:25:26 EDT" finished-at="2022-06-03T18:25:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ohrm.qa.testcases.TestHRMEmpManagementPage -->
+    </test> <!-- OrangeHRM Testcases -->
+  </suite> <!-- OrangeHRM Test Automation Test Suite -->
+</testng-results>
